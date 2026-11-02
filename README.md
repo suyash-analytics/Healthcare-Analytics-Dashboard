@@ -1,4 +1,3 @@
-# Healthcare-Analytics-Dashboard
 # 🏥 Healthcare Data Analytics Dashboard
 
 **An Interactive Healthcare Analytics Solution | Microsoft Excel | Data Analysis | Data Visualization**
@@ -22,19 +21,43 @@ The primary objective of this project is to understand healthcare operations thr
 ## 📊 Dashboard Modules
 
 ### 1. Executive Overview
-Provides a consolidated view of key healthcare performance indicators (KPIs), enabling quick assessment of overall healthcare operations.
+# Healthcare Analytics Dashboard
+
+The Healthcare Analytics Dashboard is a data analytics project developed using Microsoft Excle to analyze healthcare operations and patient-related information. The main objective of this project is to transform raw healthcare data into meaningful insights through interactive visualizations and data-driven analysis.
+
+This dashboard provides a comprehensive overview of hospital performance, including total patients, treatment costs, insurance coverage, average length of stay, recovery rate, and ICU admission rate.
+
+It also enables analysis of monthly patient admissions, department-wise patient distribution, disease-wise patient records, gender distribution, insurance categories, and city-wise patient statistics.
+
+The dashboard includes interactive filters that allow users to explore healthcare data based on admission dates, discharge dates, gender, payment status, city, disease type, insurance type, and emergency visits.
+
+This project demonstrates practical knowledge of data analysis, data visualization, KPI monitoring, and interactive dashboard development. It helps convert complex healthcare information into understandable insights that can support better decision-making and improve hospital performance monitoring.
+
+**Tools & Technologies:** Microsoft Power BI, Microsoft Excel, Power Query, DAX.
+<img width="1475" height="715" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/ab3bc69f-a70d-4e0a-8a69-6ee152eea70f" />
+
+
 
 ### 2. Patient Analysis
-Explores patient demographics, admission patterns, and patient distribution to identify trends in healthcare service utilization.
+## Patient Analysis Dashboard
+
+The Patient Analysis Dashboard is developed using Microsoft Excel to analyze patient demographics, hospital visits, and treatment patterns. It provides insights into age groups, disease distribution, doctor-wise patient records, monthly admissions, and city-wise patient statistics. Interactive filters allow users to explore patient data based on different categories and time periods. This dashboard helps understand patient trends, identify healthcare demands, and support better hospital resource planning.
+
+<img width="1725" height="711" alt="Patient Analysis Dashboard" src="https://github.com/user-attachments/assets/6962960e-1667-4b03-b8ef-57da37b61df5" />
+
+
+
 
 ### 3. Financial Analysis
-Evaluates treatment expenses, billing information, insurance coverage, and pending payments to understand financial performance.
+The Financial Insights Dashboard is designed to analyze hospital revenue, treatment expenses, insurance coverage, and payment performance. It provides insights into monthly revenue trends, city-wise treatment costs, department-wise room charges, and insurance type distribution. Interactive filters help explore financial data and identify payment patterns. This dashboard supports financial performance monitoring, expense analysis, and better budgeting decisions in healthcare management.
+<img width="1529" height="709" alt="Financial Insights Dashboard " src="https://github.com/user-attachments/assets/a2532e1f-7cdc-465d-97d1-5457b60ce589" />
 
-### 4. Recovery Analysis
-Examines patient recovery patterns and treatment outcomes to gain insights into healthcare service effectiveness.
 
-### 5. ICU Analysis
-Analyzes ICU admissions, patient distribution, and ICU utilization to understand critical-care requirements and operational trends.
+### 4. ICU & Recovery Analysis Dashboard
+The ICU & Recovery Analysis Dashboard focuses on monitoring critical patients, ICU admissions, surgical requirements, and patient recovery patterns. It analyzes critical cases across cities, department-wise recovery status, and ICU requirements through interactive visualizations. The dashboard helps identify critical care trends, evaluate recovery performance, and understand hospital emergency management, supporting better healthcare planning and resource allocation.
+
+<img width="1524" height="714" alt="ICU   Recovery Analysis Dashboard " src="https://github.com/user-attachments/assets/d43dcc29-23e7-4fd2-87ae-83f0abade5e8" />
+
 
 ## 🛠️ Tools & Technologies
 
